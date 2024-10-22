@@ -1,1 +1,5 @@
-package TaskManager
+package main
+
+func main() {
+	//Тело функции
+}
